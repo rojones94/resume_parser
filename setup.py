@@ -24,7 +24,7 @@ setup(
             'pdfminer.six>=20200517',            
             'pdfplumber>=0.5.23',
             'phonenumbers>=8.12.7',
-            'spacy>=2.3.2',       
+            'spacy>=2.3.2,<3.0.0',       
             'stemming>=1.0.1',
             'tika>=1.24',            
       ],

@@ -56,7 +56,7 @@ python -m nltk.downloader maxent_ne_chunker
 
 # Supported File Formats
 
-- PDF and DOCx and TXT files are supported on all Operating Systems
+- PDF DOCx, RTF and TXT files are supported on all Operating Systems
 
 # Usage
 
